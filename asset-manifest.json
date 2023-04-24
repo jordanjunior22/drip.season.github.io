@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jordanjunior22/drip.season.github.io.git/static/css/main.d1dad475.css",
+    "main.js": "/jordanjunior22/drip.season.github.io.git/static/js/main.eb526ce9.js",
+    "static/js/787.8261ebc6.chunk.js": "/jordanjunior22/drip.season.github.io.git/static/js/787.8261ebc6.chunk.js",
+    "static/media/dripseasonlogo.png": "/jordanjunior22/drip.season.github.io.git/static/media/dripseasonlogo.7c33855e47070110e6e2.png",
+    "static/media/homepage.png": "/jordanjunior22/drip.season.github.io.git/static/media/homepage.a9b0fe21515d4dfed0f7.png",
+    "static/media/aboutus.jpg": "/jordanjunior22/drip.season.github.io.git/static/media/aboutus.2c9643145109346d5b60.jpg",
+    "index.html": "/jordanjunior22/drip.season.github.io.git/index.html",
+    "main.d1dad475.css.map": "/jordanjunior22/drip.season.github.io.git/static/css/main.d1dad475.css.map",
+    "main.eb526ce9.js.map": "/jordanjunior22/drip.season.github.io.git/static/js/main.eb526ce9.js.map",
+    "787.8261ebc6.chunk.js.map": "/jordanjunior22/drip.season.github.io.git/static/js/787.8261ebc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dad475.css",
+    "static/js/main.eb526ce9.js"
+  ]
+}
